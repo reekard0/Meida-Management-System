@@ -4,10 +4,8 @@ MMS with Login/Delete
 
 Goals:
 
-1. Add dark mode
+1. Complete media management
 
-2. Complete media management
+2. Work towards security aspects
 
-3. Work towards security aspects
-
-4. Make sure it is efficient as possible.
+3. Make sure it is efficient as possible.
